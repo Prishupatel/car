@@ -1,0 +1,367 @@
+2021-12-15 19:12:297 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 19:12:571 INFO  HomePage :32 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (fc55579acf3756dc961ddcbe5e755da0)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 19:12:149 INFO  HomePage :38 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (fc55579acf3756dc961ddcbe5e755da0)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 20:12:239 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 20:12:376 INFO  HomePage :32 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (a6ce92f066e8dabe0df23ca17a8eff10)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 20:12:706 INFO  HomePage :38 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (a6ce92f066e8dabe0df23ca17a8eff10)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 20:12:473 INFO  NewAndUsedCarPage :42 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (a6ce92f066e8dabe0df23ca17a8eff10)] -> xpath: //select[@id='makes']]
+2021-12-15 20:12:639 INFO  NewAndUsedCarPage :47 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (a6ce92f066e8dabe0df23ca17a8eff10)] -> xpath: //select[@id='models']]
+2021-12-15 20:12:819 INFO  NewAndUsedCarPage :52 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (a6ce92f066e8dabe0df23ca17a8eff10)] -> xpath: //select[@id='locations']]
+2021-12-15 20:12:425 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 20:12:853 INFO  HomePage :32 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (60fd5fb9624083a2b2612beebeb5520e)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 20:12:515 INFO  HomePage :38 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (60fd5fb9624083a2b2612beebeb5520e)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 20:12:838 INFO  NewAndUsedCarPage :42 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (60fd5fb9624083a2b2612beebeb5520e)] -> xpath: //select[@id='makes']]
+2021-12-15 20:12:37 INFO  NewAndUsedCarPage :47 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (60fd5fb9624083a2b2612beebeb5520e)] -> xpath: //select[@id='models']]
+2021-12-15 20:12:208 INFO  NewAndUsedCarPage :52 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (60fd5fb9624083a2b2612beebeb5520e)] -> xpath: //select[@id='locations']]
+2021-12-15 20:12:409 INFO  NewAndUsedCarPage :57 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (60fd5fb9624083a2b2612beebeb5520e)] -> xpath: //select[@id='priceTo']]
+2021-12-15 20:12:196 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 20:12:815 INFO  HomePage :32 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (ce6b0d3db94c0950dcc655aa94be5579)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 20:12:306 INFO  HomePage :38 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (ce6b0d3db94c0950dcc655aa94be5579)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 20:12:89 INFO  NewAndUsedCarPage :45 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (ce6b0d3db94c0950dcc655aa94be5579)] -> xpath: //select[@id='makes']]
+2021-12-15 20:12:299 INFO  NewAndUsedCarPage :50 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (ce6b0d3db94c0950dcc655aa94be5579)] -> xpath: //select[@id='models']]
+2021-12-15 20:12:486 INFO  NewAndUsedCarPage :55 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (ce6b0d3db94c0950dcc655aa94be5579)] -> xpath: //select[@id='locations']]
+2021-12-15 20:12:664 INFO  NewAndUsedCarPage :60 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (ce6b0d3db94c0950dcc655aa94be5579)] -> xpath: //select[@id='priceTo']]
+2021-12-15 20:12:465 INFO  NewAndUsedCarPage :65 - clicking on Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:664 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:03 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (3971859e2fdf730aaa41a8e4ca0f0465)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:214 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (3971859e2fdf730aaa41a8e4ca0f0465)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 21:12:893 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (3971859e2fdf730aaa41a8e4ca0f0465)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:278 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (3971859e2fdf730aaa41a8e4ca0f0465)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:451 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (3971859e2fdf730aaa41a8e4ca0f0465)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:618 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (3971859e2fdf730aaa41a8e4ca0f0465)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:226 INFO  NewAndUsedCarPage :75 - clicking on Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:974 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:356 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (ee3a5513e9f6672ede4093a0ff16f25e)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:197 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (ee3a5513e9f6672ede4093a0ff16f25e)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 21:12:415 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (ee3a5513e9f6672ede4093a0ff16f25e)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:785 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (ee3a5513e9f6672ede4093a0ff16f25e)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:51 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (ee3a5513e9f6672ede4093a0ff16f25e)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:265 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (ee3a5513e9f6672ede4093a0ff16f25e)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:725 INFO  NewAndUsedCarPage :75 - clicking on Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:754 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:96 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (82acaa24dd5b0835b98d1819ad58591d)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:193 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (82acaa24dd5b0835b98d1819ad58591d)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 21:12:961 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (82acaa24dd5b0835b98d1819ad58591d)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:418 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (82acaa24dd5b0835b98d1819ad58591d)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:598 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (82acaa24dd5b0835b98d1819ad58591d)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:778 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (82acaa24dd5b0835b98d1819ad58591d)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:172 INFO  NewAndUsedCarPage :75 - clicking on Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:282 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:450 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (00e3054571e95d85f43dc3d768e6d76f)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:890 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (00e3054571e95d85f43dc3d768e6d76f)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 21:12:326 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (00e3054571e95d85f43dc3d768e6d76f)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:765 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (00e3054571e95d85f43dc3d768e6d76f)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:963 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (00e3054571e95d85f43dc3d768e6d76f)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:131 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (00e3054571e95d85f43dc3d768e6d76f)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:01 INFO  NewAndUsedCarPage :75 - clicking on Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:93 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:894 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (63a6775258ff26f66e139e1e0f3f8268)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:702 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (63a6775258ff26f66e139e1e0f3f8268)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 21:12:863 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (63a6775258ff26f66e139e1e0f3f8268)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:628 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (63a6775258ff26f66e139e1e0f3f8268)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:848 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (63a6775258ff26f66e139e1e0f3f8268)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:46 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (63a6775258ff26f66e139e1e0f3f8268)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:764 INFO  NewAndUsedCarPage :75 - clicking on Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:799 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:63 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (09d4cedf7c89e2b1bc9d4338c0f1de7a)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:522 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (09d4cedf7c89e2b1bc9d4338c0f1de7a)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 21:12:178 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (09d4cedf7c89e2b1bc9d4338c0f1de7a)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:383 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (09d4cedf7c89e2b1bc9d4338c0f1de7a)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:609 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (09d4cedf7c89e2b1bc9d4338c0f1de7a)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:787 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (09d4cedf7c89e2b1bc9d4338c0f1de7a)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:925 INFO  NewAndUsedCarPage :75 - clicking on Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:969 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:284 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (26abf1fb206582a638d3129267ea37f2)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:527 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (26abf1fb206582a638d3129267ea37f2)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-15 21:12:206 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (26abf1fb206582a638d3129267ea37f2)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:417 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (26abf1fb206582a638d3129267ea37f2)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:614 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (26abf1fb206582a638d3129267ea37f2)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:767 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (26abf1fb206582a638d3129267ea37f2)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:878 INFO  NewAndUsedCarPage :75 - clicking on Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:876 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:64 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (2690be2113ec0436ef1c77fded75736d)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:731 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (2690be2113ec0436ef1c77fded75736d)] -> xpath: //a[normalize-space()='Used']]
+2021-12-15 21:12:320 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (2690be2113ec0436ef1c77fded75736d)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:632 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (2690be2113ec0436ef1c77fded75736d)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:797 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (2690be2113ec0436ef1c77fded75736d)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:932 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (2690be2113ec0436ef1c77fded75736d)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:387 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:411 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:585 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (b037cec3868dd392d61d84bf5accf02d)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:419 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (b037cec3868dd392d61d84bf5accf02d)] -> xpath: //a[normalize-space()='Used']]
+2021-12-15 21:12:648 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (b037cec3868dd392d61d84bf5accf02d)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:848 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (b037cec3868dd392d61d84bf5accf02d)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:65 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (b037cec3868dd392d61d84bf5accf02d)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:250 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (b037cec3868dd392d61d84bf5accf02d)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:936 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:54 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:834 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (942f3a31ddff3241f6c36844e22ed4a6)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:651 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (942f3a31ddff3241f6c36844e22ed4a6)] -> xpath: //a[normalize-space()='Used']]
+2021-12-15 21:12:892 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (942f3a31ddff3241f6c36844e22ed4a6)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:75 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (942f3a31ddff3241f6c36844e22ed4a6)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:234 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (942f3a31ddff3241f6c36844e22ed4a6)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:412 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (942f3a31ddff3241f6c36844e22ed4a6)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:212 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:246 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:917 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (bba23dc263c685bf9bec2327946a17ea)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:901 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (bba23dc263c685bf9bec2327946a17ea)] -> xpath: //a[normalize-space()='Used']]
+2021-12-15 21:12:352 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (bba23dc263c685bf9bec2327946a17ea)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:559 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (bba23dc263c685bf9bec2327946a17ea)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:766 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (bba23dc263c685bf9bec2327946a17ea)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:909 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (bba23dc263c685bf9bec2327946a17ea)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:818 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:867 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:534 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (f291dc65a8675f9aeeb67397438fb6c2)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 21:12:489 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (f291dc65a8675f9aeeb67397438fb6c2)] -> xpath: //a[normalize-space()='Used']]
+2021-12-15 21:12:685 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (f291dc65a8675f9aeeb67397438fb6c2)] -> xpath: //select[@id='makes']]
+2021-12-15 21:12:885 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (f291dc65a8675f9aeeb67397438fb6c2)] -> xpath: //select[@id='models']]
+2021-12-15 21:12:47 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (f291dc65a8675f9aeeb67397438fb6c2)] -> xpath: //select[@id='locations']]
+2021-12-15 21:12:200 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (f291dc65a8675f9aeeb67397438fb6c2)] -> xpath: //select[@id='priceTo']]
+2021-12-15 21:12:161 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-15 21:12:248 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-15 21:12:349 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (6aa1bacba1b6f2dfeabfb8f4c5f75d50)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-15 22:12:13 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (6aa1bacba1b6f2dfeabfb8f4c5f75d50)] -> xpath: //a[normalize-space()='Used']]
+2021-12-15 22:12:245 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (6aa1bacba1b6f2dfeabfb8f4c5f75d50)] -> xpath: //select[@id='makes']]
+2021-12-15 22:12:755 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (6aa1bacba1b6f2dfeabfb8f4c5f75d50)] -> xpath: //select[@id='models']]
+2021-12-15 22:12:168 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (6aa1bacba1b6f2dfeabfb8f4c5f75d50)] -> xpath: //select[@id='locations']]
+2021-12-15 22:12:329 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (6aa1bacba1b6f2dfeabfb8f4c5f75d50)] -> xpath: //select[@id='priceTo']]
+2021-12-15 22:12:140 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:213 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:529 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:882 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (4f9d3a538c8157d584cf8de574f7046b)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:101 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (01528f56ca8b0e6b93fb7197d92436e2)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:886 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (01528f56ca8b0e6b93fb7197d92436e2)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:316 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (4f9d3a538c8157d584cf8de574f7046b)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:605 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (01528f56ca8b0e6b93fb7197d92436e2)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:998 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (4f9d3a538c8157d584cf8de574f7046b)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:118 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (01528f56ca8b0e6b93fb7197d92436e2)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:429 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (4f9d3a538c8157d584cf8de574f7046b)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:483 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (01528f56ca8b0e6b93fb7197d92436e2)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:736 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (4f9d3a538c8157d584cf8de574f7046b)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:808 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (01528f56ca8b0e6b93fb7197d92436e2)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:154 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (4f9d3a538c8157d584cf8de574f7046b)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:499 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:541 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:567 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (e6b1a9db3d00b85c948e534a2143f321)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:846 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (e6b1a9db3d00b85c948e534a2143f321)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:115 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (e6b1a9db3d00b85c948e534a2143f321)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:511 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (e6b1a9db3d00b85c948e534a2143f321)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:879 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (e6b1a9db3d00b85c948e534a2143f321)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:428 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (e6b1a9db3d00b85c948e534a2143f321)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:612 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:36 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:235 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:658 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:201 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (a01cbce01215451425d7bc76d73d72c4)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:05 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:254 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:884 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (6e951d9ba2263bea86b9360b023e66e0)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:533 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (6e951d9ba2263bea86b9360b023e66e0)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:987 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (6e951d9ba2263bea86b9360b023e66e0)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:197 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (6e951d9ba2263bea86b9360b023e66e0)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:459 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (6e951d9ba2263bea86b9360b023e66e0)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:660 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (6e951d9ba2263bea86b9360b023e66e0)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:615 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:808 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:348 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (d69ac68630ea7e4302aafb436b7e3082)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:53 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (d69ac68630ea7e4302aafb436b7e3082)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:376 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (d69ac68630ea7e4302aafb436b7e3082)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:674 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (d69ac68630ea7e4302aafb436b7e3082)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:878 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (d69ac68630ea7e4302aafb436b7e3082)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:52 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (d69ac68630ea7e4302aafb436b7e3082)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:829 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:43 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:118 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (288cc70764d0c15b3edb31e15ec3482c)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:747 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (288cc70764d0c15b3edb31e15ec3482c)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:60 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (288cc70764d0c15b3edb31e15ec3482c)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:640 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (288cc70764d0c15b3edb31e15ec3482c)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:933 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (288cc70764d0c15b3edb31e15ec3482c)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:180 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (288cc70764d0c15b3edb31e15ec3482c)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:530 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:724 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:12 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (4bba7f5c412ffc98dca8750a54723ca1)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:349 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (4bba7f5c412ffc98dca8750a54723ca1)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:97 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (4bba7f5c412ffc98dca8750a54723ca1)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:296 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (4bba7f5c412ffc98dca8750a54723ca1)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:462 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (4bba7f5c412ffc98dca8750a54723ca1)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:635 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (4bba7f5c412ffc98dca8750a54723ca1)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:889 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:983 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:443 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (223b4c18147cc466d5af648c1bfa905d)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:23 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (223b4c18147cc466d5af648c1bfa905d)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:398 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (223b4c18147cc466d5af648c1bfa905d)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:625 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (223b4c18147cc466d5af648c1bfa905d)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:828 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (223b4c18147cc466d5af648c1bfa905d)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:00 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (223b4c18147cc466d5af648c1bfa905d)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:602 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:699 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:749 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (04a56de8428d8d89a8f6d5b873ce3c9d)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:920 INFO  HomePage :43 - Clicking on search car : [[ChromeDriver: chrome on WINDOWS (04a56de8428d8d89a8f6d5b873ce3c9d)] -> xpath: //a[normalize-space()='Search Cars']]
+2021-12-16 09:12:652 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (04a56de8428d8d89a8f6d5b873ce3c9d)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:932 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (04a56de8428d8d89a8f6d5b873ce3c9d)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:178 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (04a56de8428d8d89a8f6d5b873ce3c9d)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:360 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (04a56de8428d8d89a8f6d5b873ce3c9d)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:26 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:90 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:998 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (ffdd95aca1f9b4bd6c7e86d23eef93b3)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:79 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (ffdd95aca1f9b4bd6c7e86d23eef93b3)] -> xpath: //a[normalize-space()='Used']]
+2021-12-16 09:12:540 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (ffdd95aca1f9b4bd6c7e86d23eef93b3)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:255 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (ffdd95aca1f9b4bd6c7e86d23eef93b3)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:518 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (ffdd95aca1f9b4bd6c7e86d23eef93b3)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:732 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (ffdd95aca1f9b4bd6c7e86d23eef93b3)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:927 INFO  NewAndUsedCarPage :75 - clicking on search button [[ChromeDriver: chrome on WINDOWS (ffdd95aca1f9b4bd6c7e86d23eef93b3)] -> xpath: //input[@id='search-submit']]
+2021-12-16 09:12:608 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:634 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (0af1a685389910a15b2b66a32459895e)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:714 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (0af1a685389910a15b2b66a32459895e)] -> xpath: //a[normalize-space()='Used']]
+2021-12-16 09:12:33 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (0af1a685389910a15b2b66a32459895e)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:278 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (0af1a685389910a15b2b66a32459895e)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:482 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (0af1a685389910a15b2b66a32459895e)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:616 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (0af1a685389910a15b2b66a32459895e)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:521 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:658 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:966 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (f18f4994bf64ef3611c544f334ab01fb)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:950 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (f18f4994bf64ef3611c544f334ab01fb)] -> xpath: //a[normalize-space()='Used']]
+2021-12-16 09:12:489 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (f18f4994bf64ef3611c544f334ab01fb)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:700 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (f18f4994bf64ef3611c544f334ab01fb)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:872 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (f18f4994bf64ef3611c544f334ab01fb)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:51 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (f18f4994bf64ef3611c544f334ab01fb)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:52 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:262 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:532 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (d9cd2921fc73a8a5875d6ef7f74bb48f)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:788 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (d9cd2921fc73a8a5875d6ef7f74bb48f)] -> xpath: //a[normalize-space()='Used']]
+2021-12-16 09:12:237 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (d9cd2921fc73a8a5875d6ef7f74bb48f)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:743 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (d9cd2921fc73a8a5875d6ef7f74bb48f)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:67 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (d9cd2921fc73a8a5875d6ef7f74bb48f)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:465 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (d9cd2921fc73a8a5875d6ef7f74bb48f)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:690 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 09:12:840 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:497 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (cf3b1b5ee89238c999fbe08f3f2d74fe)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:954 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (cf3b1b5ee89238c999fbe08f3f2d74fe)] -> xpath: //a[normalize-space()='Used']]
+2021-12-16 09:12:330 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (cf3b1b5ee89238c999fbe08f3f2d74fe)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:521 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (cf3b1b5ee89238c999fbe08f3f2d74fe)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:681 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (cf3b1b5ee89238c999fbe08f3f2d74fe)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:978 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (cf3b1b5ee89238c999fbe08f3f2d74fe)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:271 INFO  NewAndUsedCarPage :75 - clicking on search button [[ChromeDriver: chrome on WINDOWS (cf3b1b5ee89238c999fbe08f3f2d74fe)] -> xpath: //input[@id='search-submit']]
+2021-12-16 09:12:162 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 09:12:171 INFO  HomePage :37 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (33d56aac753734dba67c3a1ee76d0713)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 09:12:220 INFO  HomePage :49 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (33d56aac753734dba67c3a1ee76d0713)] -> xpath: //a[normalize-space()='Used']]
+2021-12-16 09:12:860 INFO  NewAndUsedCarPage :55 - Selecting your car  : [[ChromeDriver: chrome on WINDOWS (33d56aac753734dba67c3a1ee76d0713)] -> xpath: //select[@id='makes']]
+2021-12-16 09:12:83 INFO  NewAndUsedCarPage :60 - Selecting your model  : [[ChromeDriver: chrome on WINDOWS (33d56aac753734dba67c3a1ee76d0713)] -> xpath: //select[@id='models']]
+2021-12-16 09:12:257 INFO  NewAndUsedCarPage :65 - Selecting Location  : [[ChromeDriver: chrome on WINDOWS (33d56aac753734dba67c3a1ee76d0713)] -> xpath: //select[@id='locations']]
+2021-12-16 09:12:419 INFO  NewAndUsedCarPage :70 - Selecting Price  : [[ChromeDriver: chrome on WINDOWS (33d56aac753734dba67c3a1ee76d0713)] -> xpath: //select[@id='priceTo']]
+2021-12-16 09:12:193 INFO  NewAndUsedCarPage :75 - clicking on search button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 10:12:775 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:424 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (aeca3f7618c86294086ef65001f5ba8e)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:260 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (aeca3f7618c86294086ef65001f5ba8e)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:44 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:97 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (8310c524f7e231dc0467d5934de90b1a)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:645 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (8310c524f7e231dc0467d5934de90b1a)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:217 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:80 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (d2208df3ee196785fc51129fddca30c8)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:851 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (d2208df3ee196785fc51129fddca30c8)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:414 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:362 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (fc21c41b84824fd0ccafe8085494a2c6)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:933 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (fc21c41b84824fd0ccafe8085494a2c6)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:292 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:115 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (a202c108782cd9a072504884947dd59c)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:603 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (a202c108782cd9a072504884947dd59c)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:305 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:665 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (4d7b3815afda9d9face7381e3057de10)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:206 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (4d7b3815afda9d9face7381e3057de10)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:48 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:845 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (288601ad58e907bb85da28fb5bc7b4a3)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:535 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (288601ad58e907bb85da28fb5bc7b4a3)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:725 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:05 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:232 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:280 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:840 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:52 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:883 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (0951c38bee03e5b112e2d8ac9f0c6a9e)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:351 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (0951c38bee03e5b112e2d8ac9f0c6a9e)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:62 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:539 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (9c1155f6f23420636400c284c2592bea)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:55 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (9c1155f6f23420636400c284c2592bea)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:840 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:280 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (d9f7bf959876a0cec28a152aba6de4ff)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:769 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (d9f7bf959876a0cec28a152aba6de4ff)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:893 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:283 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (5f37e194220c91e104014fffc04e1bab)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:719 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (5f37e194220c91e104014fffc04e1bab)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:867 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:270 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:413 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (4bb846e4322b26f797be5302af9d2d5b)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:761 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (4bb846e4322b26f797be5302af9d2d5b)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:609 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:699 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (d7a4816acd18dbbe73b9020f6d0a8ff9)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:35 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (d7a4816acd18dbbe73b9020f6d0a8ff9)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:803 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:827 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (4af4462fbe4ef3d386fdc37285aa3a2b)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:352 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (4af4462fbe4ef3d386fdc37285aa3a2b)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:18 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:382 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (0ff08480c7d47f76a58bb874d46b1723)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:847 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (0ff08480c7d47f76a58bb874d46b1723)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:473 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:609 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:949 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (1200842601d157c1b7103b5f637226b1)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:434 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (1200842601d157c1b7103b5f637226b1)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:312 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:46 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (786894a5c133a620f1140dcd362e1cd1)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:542 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (786894a5c133a620f1140dcd362e1cd1)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:311 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:524 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (2927770d95771fc175b5318a36f12eae)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:514 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (2927770d95771fc175b5318a36f12eae)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:269 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:527 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (b0b706d44d3c6c36a754e6e8408d4bba)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:374 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (b0b706d44d3c6c36a754e6e8408d4bba)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:958 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:930 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:321 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:303 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (6c78f267fa365f91fdd5ae6af9fff907)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:977 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (6c78f267fa365f91fdd5ae6af9fff907)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:704 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:64 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (7dc565e2f8ec63f1f3dcfcf317e42140)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:448 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (7dc565e2f8ec63f1f3dcfcf317e42140)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:279 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:658 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (2aa33abfc63ce7f1655b133b8129f299)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:464 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (2aa33abfc63ce7f1655b133b8129f299)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:114 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:446 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (182ab7c6e7629541ea5ff7bb5b3e8062)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:942 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (182ab7c6e7629541ea5ff7bb5b3e8062)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:954 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:862 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (a451e55166aaacf9cd424b3be55742aa)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:148 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (a451e55166aaacf9cd424b3be55742aa)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:306 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:534 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (0386c13003e70f9bb6d83fa583b598d5)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:438 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (0386c13003e70f9bb6d83fa583b598d5)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:04 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:447 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (562767d00686f65ceb0225dadd2f13e1)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:987 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (562767d00686f65ceb0225dadd2f13e1)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:292 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:961 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (ef4192309c778d5df96e5f4de0696561)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:192 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (ef4192309c778d5df96e5f4de0696561)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:437 INFO  FindDealersPage :34 - verify car dealers name : true
+2021-12-16 10:12:540 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 10:12:896 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (de407b1719a57ec0399bfb1d5f770d00)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 10:12:378 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (de407b1719a57ec0399bfb1d5f770d00)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 10:12:511 INFO  FindDealersPage :34 - verify car dealers name : true
+2021-12-16 10:12:448 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 11:12:342 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (6ab213db65f685ca38a3534b3d91f627)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 11:12:148 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (6ab213db65f685ca38a3534b3d91f627)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 11:12:305 INFO  FindDealersPage :34 - verify car dealers name : true
+2021-12-16 11:12:232 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 11:12:420 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (ec98723482cc316f797a8b48ace6b615)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 11:12:127 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (ec98723482cc316f797a8b48ace6b615)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 11:12:269 INFO  FindDealersPage :34 - verify car dealers name : true
+2021-12-16 11:12:210 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 11:12:930 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (34a1caa2ebe44c3b286b27e069558bd2)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 11:12:450 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (34a1caa2ebe44c3b286b27e069558bd2)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 11:12:595 INFO  FindDealersPage :34 - verify car dealers name : true
+2021-12-16 11:12:543 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 11:12:475 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (ad3c8799c25aea6b0220530af7e5458d)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 11:12:998 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (ad3c8799c25aea6b0220530af7e5458d)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 11:12:111 INFO  FindDealersPage :34 - verify car dealers name : true
+2021-12-16 11:12:30 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-16 11:12:172 INFO  HomePage :42 - Mouse hovering on Buy+Sell : [[ChromeDriver: chrome on WINDOWS (e0b4022dffa5489000386df79d1d766f)] -> xpath: //a[normalize-space()='buy + sell']]
+2021-12-16 11:12:439 INFO  HomePage :60 - Clicking on  : [[ChromeDriver: chrome on WINDOWS (e0b4022dffa5489000386df79d1d766f)] -> xpath: //a[normalize-space()='Find a Dealer']]
+2021-12-16 11:12:149 INFO  FindDealersPage :34 - verify car dealers name : true
